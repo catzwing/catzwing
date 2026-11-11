@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="./piano.gif" alt="piano keyboard" width="100%" />
+  <img width="498" height="16" alt="17943848668902499521244483268366" src="https://github.com/user-attachments/assets/a4b32121-ddae-463c-b93d-5781a548d950" />
+
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=catzwing.catzwing&left_color=pink&right_color=lightgray&left_text=jammers!" alt="profile views" />
 <br>
