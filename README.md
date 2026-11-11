@@ -1,10 +1,11 @@
 
 <div align="center">
-  <img width="498" height="16" alt="17943848668902499521244483268366" src="https://github.com/user-attachments/assets/a4b32121-ddae-463c-b93d-5781a548d950" />
 
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=catzwing.catzwing&left_color=pink&right_color=lightgray&left_text=jammers!" alt="profile views" />
 <br>
+<img width="498" height="16" alt="17943848668902499521244483268366" src="https://github.com/user-attachments/assets/06a44237-7fb4-4fc8-aa7d-f187fcc11700" />
+
 <img width="220" height="159" alt="pluey-mike" src="https://github.com/user-attachments/assets/e5021437-1554-40d9-a548-aa5c8a978edf" />
 <br>
 ˚₊‧꒰ა ฅ^•ﻌ•^ฅ ໒꒱ ‧₊˚
