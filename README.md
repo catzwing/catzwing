@@ -1,5 +1,7 @@
 
 <div align="center">
+  <img src="./piano.gif" alt="piano keyboard" width="100%" />
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=catzwing.catzwing&left_color=pink&right_color=lightgray&left_text=jammers!" alt="profile views" />
 <br>
 <img width="220" height="159" alt="pluey-mike" src="https://github.com/user-attachments/assets/e5021437-1554-40d9-a548-aa5c8a978edf" />
