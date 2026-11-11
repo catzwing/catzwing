@@ -6,7 +6,7 @@
 
 <img width="220" height="159" alt="pluey-mike" src="https://github.com/user-attachments/assets/e5021437-1554-40d9-a548-aa5c8a978edf" />
 <br>
-˚₊‧꒰ა ฅ^•ﻌ•^ฅ ໒꒱‧₊˚
+˚₊‧꒰ა 🎤 ໒꒱‧₊˚
 <br>
 <a href="https://pronouns.cc/@catzwing">prns.cc</a> <span style="color:#FCAEC8;">♫</span> <a href="https://dni-criteria.carrd.co/">dni</a> <span style="color:#FFEF0B;">♪</span> <a href="https://catzwing.atabook.org/">ata</a>
 <br>
