@@ -14,4 +14,4 @@
 <br>
 <img width="150" height="20" alt="meow meow meow meow meow 2" src="https://github.com/user-attachments/assets/f3f895f7-bae6-4a5e-bfda-86a9057abf2d" />
 </div>
-<p align="center"> $\color{##ffadc9}{\text{testinggg!}}$ </p>
+<p align="center"> $\color{#ffadc9}{\text{testinggg}}$ </p>
